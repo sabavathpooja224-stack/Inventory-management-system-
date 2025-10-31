@@ -1,0 +1,5 @@
+{
+  "name": "Inventory Management System",
+  "description": "A comprehensive, user-friendly Inventory Management System to add, update, delete, and search for products. It features a dashboard with key metrics, low-stock alerts, reports, and simulated user roles for Admin and Staff.",
+  "requestFramePermissions": []
+}
